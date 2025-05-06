@@ -1,0 +1,4 @@
+1- Study Filters
+2- Study any missing info.
+3- Study Tikinter / Streamlit -> Done
+4- Make a Prototype 
